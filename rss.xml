@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Just Good Music]]></title>
         <description><![CDATA[Just Good Music]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/just-good-music/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 22:04:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Dec 2015 06:24:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/just-good-music/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Adele Details Massive North American Tour</p>]]></description>
+            <link>https://thegrid.ai/just-good-music/adele-details-massive-north-american-tour/index.html</link>
+            <guid isPermaLink="false">a63bfb8b-a064-4cc2-acd6-08fc46cdaf02</guid>
+            <pubDate>Tue, 15 Dec 2015 06:24:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Also Home</p>]]></description>
-            <link>undefined620b50b0-7c04-42cd-b950-89418fb87680/index.html</link>
+            <link>https://thegrid.ai/just-good-music/620b50b0-7c04-42cd-b950-89418fb87680/index.html</link>
             <guid isPermaLink="false">620b50b0-7c04-42cd-b950-89418fb87680</guid>
             <pubDate>Mon, 14 Dec 2015 22:04:36 GMT</pubDate>
         </item>
