@@ -4,7 +4,7 @@
         <description><![CDATA[Just Good Music]]></description>
         <link>https://thegrid.ai/just-good-music/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 15:34:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 15:34:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/just-good-music/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[RIP Lemmy]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/just-good-music/foo-fighters/index.html</link>
             <guid isPermaLink="false">0c74db1c-5571-41d6-80eb-8077b4fad64a</guid>
             <pubDate>Tue, 29 Dec 2015 22:51:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Adele Details Massive North American Tour</p>]]></description>
-            <link>https://thegrid.ai/just-good-music/adele-details-massive-north-american-tour/index.html</link>
-            <guid isPermaLink="false">a63bfb8b-a064-4cc2-acd6-08fc46cdaf02</guid>
-            <pubDate>Tue, 29 Dec 2015 22:33:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
