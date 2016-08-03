@@ -1,19 +1,4 @@
-name: Just Good Music
-favicon: null
-layout_spectrum: 0.14874312421306968
 typography_spectrum: 0.21214313199743629
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -25,4 +10,20 @@ color:
   lightness: 0.5256580791901797
   saturation: 0.3505325303412974
   rhythmicContrast: 0.2881075006444007
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.14874312421306968
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Just Good Music
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: This Is My Tag
 purpose: []
