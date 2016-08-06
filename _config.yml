@@ -15,7 +15,7 @@ collections:
     permalink:
       path: '/:title/'
 description: This Is My Tag
-title: Just Hood Music
+title: Just Good Music
 cta:
   domain: null
   bucket: null
