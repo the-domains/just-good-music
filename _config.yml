@@ -1,29 +1,41 @@
-typography_spectrum: 0.21214313199743629
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: This Is My Tag
 color:
+  saturation: 1
+  brandStrength: 0.915683
+  lightness: 0.5463744
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.5295056600589305
-  lightness: 0.5256580791901797
-  saturation: 0.3505325303412974
-  rhythmicContrast: 0.2881075006444007
+    - '#000000'
+    - '#7561B8'
+    - '#27FFCA'
+    - '#72FFC3'
+    - '#6CD2CC'
+  rhythmicContrast: 0
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Just Good Music
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.14874312421306968
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: Just Good Music
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-description: This Is My Tag
-purpose: []
+typography_spectrum: 0.4991568
+layout_spectrum: 1
