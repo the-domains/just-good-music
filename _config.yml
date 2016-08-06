@@ -13,16 +13,16 @@ collections:
       path: '/:title/'
 description: This Is My Tag
 color:
-  saturation: 0.5025295
+  saturation: 0.4974705
   brandStrength: 0.915683
-  lightness: 0.341484
+  lightness: 0
   brandColors:
     - '#000000'
     - '#7561B8'
     - '#27FFCA'
     - '#72FFC3'
     - '#6CD2CC'
-  rhythmicContrast: 1
+  rhythmicContrast: 0.4881956
 cta:
   bucket: null
   version: null
@@ -38,4 +38,4 @@ opengraph:
   type: null
   appId: null
 typography_spectrum: 0.4991568
-layout_spectrum: 1
+layout_spectrum: 0.8305228
